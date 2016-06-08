@@ -1,19 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:37.814054
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064g
 #+PROPERTY: ID KR6v0083
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 07, No. 064g
 #+PROPERTY: VOL 07
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0083_W_000-0358a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6v0083_W_001-0358a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 
-錄文七¶
+* 〔錄文七〕¶
 ¶
 
 大乘四齋日：二月八日、四月八日、五月八日、¶
