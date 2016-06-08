@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:37.814054
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:12
 #+TITLE: 地藏菩薩十齋日
 #+PROPERTY: CBETA_ID W07n0064g
 #+PROPERTY: ID KR6v0083
@@ -13,7 +13,7 @@
 ¶
 ¶
 
-錄文七¶
+* 錄文七¶
 ¶
 
 大乘四齋日：二月八日、四月八日、五月八日、¶
